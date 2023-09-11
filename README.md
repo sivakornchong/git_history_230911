@@ -12,3 +12,6 @@ git commands
 - 'diff': will identify the changes in the local repo that is not added to git knowledge yet. This is comparing to the latest info that git knows about (added to staging area)
 - 'diff --staged': compare staged to committed. 
 - "restore --staged <file>...": un-added the file from the staging area.
+
+
+###Some changes I dont want###
